@@ -30,20 +30,24 @@
 
 ### 检测效果
 
-<div style="width:80%;">
-    <div style="display:inline-block; width:48%;">
+
+
+
+
+<div style="width:530px;">
+    <div style="display:inline-block; width:254px;">
          <div>平滑图像</div>
     	<img src="https://s1.ax1x.com/2023/02/28/ppCoGM6.png">
     </div>
-   <div style="display:inline-block; width:48%;">
+   <div style="display:inline-block; width:254px;">
          <div>灰度图像</div>
     	<img src="https://s1.ax1x.com/2023/02/28/ppCo3xx.png">
     </div>
-    <div style="display:inline-block; width:48%;">
+    <div style="display:inline-block; width:254px;">
          <div>边缘图像</div>
     	<img src="https://s1.ax1x.com/2023/02/28/ppCo1R1.png">
     </div>
-    <div style="display:inline-block; width:48%;">
+    <div style="display:inline-block; width:254px;">
          <div>二值图像</div>
     	<img src="https://s1.ax1x.com/2023/02/28/ppColGR.png">
     </div>
