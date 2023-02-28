@@ -1,0 +1,9 @@
+zone/*
+.vscode/*
+.git/*
+output/*
+!output/caption.txt
+*.zip
+*.rar
+*.tar.gz
+*.exe

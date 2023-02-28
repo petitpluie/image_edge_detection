@@ -1,0 +1,7 @@
+经高斯滤波处理的平滑图像：filter.bmp
+经加权平均处理的灰度图像：grey.bmp
+竖直方向梯度图像：sobelEdge-x.bmp
+水平方向梯度图像：sobelEdge-y.bmp
+综合梯度(边缘)图像：sobelEdge-xy.bmp
+经滤波处理的灰度图像：filter-grey.bmp
+二值化的图像：grey2binary.bmp
