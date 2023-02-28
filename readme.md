@@ -35,21 +35,21 @@
 
 
 <div style="width:530px;">
-    <div style="display:inline-block; width:254px;">
+    <div style="float:left; width:254px;">
          <div>平滑图像</div>
     	<img src="https://s1.ax1x.com/2023/02/28/ppCoGM6.png" width=254>
     </div>
-   <div style="display:inline-block; width:254px;">
+   <div style="float:left; width:254px;">
          <div>灰度图像</div>
     	<img src="https://s1.ax1x.com/2023/02/28/ppCo3xx.png" width=254>
     </div>
-    <div style="display:inline-block; width:254px;">
+    <div style="float:left; width:254px;">
          <div>边缘图像</div>
-    	<img src="https://s1.ax1x.com/2023/02/28/ppCo1R1.png" style="width:254px;">
+    	<img src="https://s1.ax1x.com/2023/02/28/ppCo1R1.png" style=254>
     </div>
-    <div style="display:inline-block; width:254px;">
+    <div style="float:left; width:254px;">
          <div>二值图像</div>
-    	<img src="https://s1.ax1x.com/2023/02/28/ppColGR.png" style="width:254px;">
+    	<img src="https://s1.ax1x.com/2023/02/28/ppColGR.png" style=254>
     </div>
 </div>
 
