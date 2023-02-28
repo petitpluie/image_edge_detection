@@ -30,24 +30,21 @@
 
 ### 检测效果
 
-<div style="display:-webkit-flex; display:flex; flex-flow:raw nowrap; width:80%;">
-    <div style="flex:1 1 auto;">
-        <span>平滑图像</span>
+<div style="width:80%;">
+    <div style="display:inline-block; width:48%;">
+         <div>平滑图像</div>
     	<img src="https://s1.ax1x.com/2023/02/28/ppCoGM6.png">
     </div>
-    <div style="flex:1 1 auto;">
-        <span>灰度图像</span>
+   <div style="display:inline-block; width:48%;">
+         <div>灰度图像</div>
     	<img src="https://s1.ax1x.com/2023/02/28/ppCo3xx.png">
     </div>
-</div>
-
-<div style="display:-webkit-flex; display:flex; flex-flow:raw nowrap; width:80%;">
-    <div style="flex:1 1 auto;">
-        <span>边缘图像</span>
+    <div style="display:inline-block; width:48%;">
+         <div>边缘图像</div>
     	<img src="https://s1.ax1x.com/2023/02/28/ppCo1R1.png">
     </div>
-    <div style="flex:1 1 auto;">
-        <span>二值图像</span>
+    <div style="display:inline-block; width:48%;">
+         <div>二值图像</div>
     	<img src="https://s1.ax1x.com/2023/02/28/ppColGR.png">
     </div>
 </div>
