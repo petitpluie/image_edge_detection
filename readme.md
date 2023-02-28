@@ -30,26 +30,7 @@
 
 ### 检测效果
 
+<img src="https://s1.ax1x.com/2023/02/28/ppCoGM6.png" alt="filter.png" width=254> <img src="https://s1.ax1x.com/2023/02/28/ppCo3xx.png" alt="grey.png" width=254>
 
-
-
-
-<div style="width:530px;">
-    <div style="float:left; width:254px;">
-         <div>平滑图像</div>
-    	<img src="https://s1.ax1x.com/2023/02/28/ppCoGM6.png" width=254>
-    </div>
-   <div style="float:left; width:254px;">
-         <div>灰度图像</div>
-    	<img src="https://s1.ax1x.com/2023/02/28/ppCo3xx.png" width=254>
-    </div>
-    <div style="float:left; width:254px;">
-         <div>边缘图像</div>
-    	<img src="https://s1.ax1x.com/2023/02/28/ppCo1R1.png" style=254>
-    </div>
-    <div style="float:left; width:254px;">
-         <div>二值图像</div>
-    	<img src="https://s1.ax1x.com/2023/02/28/ppColGR.png" style=254>
-    </div>
-</div>
+<img src="https://s1.ax1x.com/2023/02/28/ppCo1R1.png" alt="sobelEdge-xy.png" width=254> <img src="https://s1.ax1x.com/2023/02/28/ppColGR.png" alt="grey2binary.png" width=254>
 
